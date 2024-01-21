@@ -27,3 +27,6 @@ It generates the motor PWM duty cycle and determines the wiper system status by 
 [![Watch the video](https://github.com/msayed6789/Fire_System_Embedded_Proj/blob/main/Photos/fire_System.PNG)()].
 <br>
 <br>
+
+# To contact Developer:
+## [LinkedIn](https://www.linkedin.com/in/mohamed-sayed-740b44203/)
