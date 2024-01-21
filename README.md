@@ -23,7 +23,7 @@ It generates the motor PWM duty cycle and determines the wiper system status by 
 # The project simulation:
 <img src="https://github.com/msayed6789/Wiper_System_Matlab_Simulink/blob/main/Photos/Wiper_System.PNG" width=100%>
 ## The Wiper subsystem:
-<img https://github.com/msayed6789/Wiper_System_Matlab_Simulink/blob/main/Photos/Wiper_Subsystem.PNG" width=100%>
+<img src=https://github.com/msayed6789/Wiper_System_Matlab_Simulink/blob/main/Photos/Wiper_Subsystem.PNG" width=100%>
 [![Watch the video](https://github.com/msayed6789/Fire_System_Embedded_Proj/blob/main/Photos/fire_System.PNG)()].
 <br>
 <br>
